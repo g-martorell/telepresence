@@ -1,4 +1,4 @@
-# Telepresence 2: fast, efficient local development for Kubernetes microservices
+# Telepresence 2: fast , efficient local development for Kubernetes microservices
 
 Telepresence gives developers infinite scale development environments for Kubernetes. With Telepresence:
 
